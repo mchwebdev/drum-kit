@@ -1,6 +1,6 @@
 html {
   font-size: 10px;
-  background: url(https://images.pexels.com/photos/164967/pexels-photo-164967.jpeg?w=940&h=650&auto=compress&cs=tinysrgb) bottom center;
+  background: url("img/drum-850px.png") bottom center;
   background-size: cover;
 }
 body,html {
